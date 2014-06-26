@@ -1,4 +1,4 @@
 sample-db
 =========
 
-Sample databases, used by thenewboston
+Sample mysql tables, used by thenewboston
